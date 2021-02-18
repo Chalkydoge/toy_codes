@@ -1,7 +1,6 @@
 # 杂物箱
 
 - 所有奇奇怪怪的东西都往这里扔
- all about bad things
 
 
 ## python摸鱼🐟:
@@ -15,3 +14,8 @@
 - sudouku: 数独求解(使用dlx算法)
 
 - sort: 排序模板(((
+
+
+# Leetcode
+ 
+- 存放代码使用kkk
