@@ -6,3 +6,5 @@ Leetcode 解题记录
 
 - :star: 1004 [最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1004.cpp) ||
   解题思路: [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_ans1004.md)
+
+- :star: 697 [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) || 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_697.cpp) || 
