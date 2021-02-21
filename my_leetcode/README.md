@@ -9,4 +9,4 @@ Leetcode 解题记录
 
 - :star: 697 [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) || 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_697.cpp) || 
 
-- :star: 1438 绝对差不超过限制的最长连续子数组 代码 && 解题思路 [link]((https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1438.cpp)
+- :star: 1438 绝对差不超过限制的最长连续子数组 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1438.cpp)
