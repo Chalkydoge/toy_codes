@@ -12,3 +12,5 @@ Leetcode 解题记录
 - :star: 1438 绝对差不超过限制的最长连续子数组 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1438.cpp)
 
 - :star: 766. 托普利茨矩阵 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_766.cpp)
+
+- :star: 1052. 爱生气的书店老板 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1052.cpp)
