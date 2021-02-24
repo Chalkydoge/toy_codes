@@ -14,3 +14,5 @@ Leetcode 解题记录
 - :star: 766. 托普利茨矩阵 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_766.cpp)
 
 - :star: 1052. 爱生气的书店老板 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1052.cpp)
+
+- :star: 832. 翻转图像 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_832.cpp)
