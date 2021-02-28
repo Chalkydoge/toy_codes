@@ -22,3 +22,5 @@ Leetcode 解题记录
 - :star: 1178. 猜字谜 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_1178.cpp)
 
 - :star: 395. 至少有K个重复字符的最长子串 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_395.cpp)
+
+- :star: 896. 单调数列 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_896.cpp)
