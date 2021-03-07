@@ -29,4 +29,6 @@ Leetcode 解题记录
 
 - :star: 338. 比特位计数 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_338.cpp)
 
-- :star: 232. 用栈实现队列 
+- :star: 232. 用栈实现队列  [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_232.cpp)
+
+- :star: 131. 分割回文串 代码 && 解题思路 [link](https://github.com/Chalkydoge/toy_codes/blob/master/my_leetcode/_131.cpp)
